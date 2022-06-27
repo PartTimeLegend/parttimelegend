@@ -3,7 +3,7 @@
 <h4 align="center">A proud <a href="https://stem.org.uk">STEM Ambassador</a></h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parttimelegend" alt="parttimelegend" /></a> </p>
 
-- 🔭 I’m currently working as **Available to Hire in the UK - Outside IR35 Only**
+- 🔭 **Available to Hire in the UK - Outside IR35 Only**
 - https://www.cloudponents.com 
 
 - 📫 How to reach me **hi@antonybailey.net**
